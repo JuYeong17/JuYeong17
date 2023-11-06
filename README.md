@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://blog.naver.com/dhwndud980" target="_blank"><img src="https://img.shields.io/badge/FFFFFF?style=plastic&logo=appveyor&logoColor=90EE90"/></a>
+<a href="https://blog.naver.com/dhwndud980" target="_blank"><img src="https://img.shields.io/badge/label-90EE90?style=plastic&logo=appveyor&logoColor=000000"/></a>
 
 <!--
 **JuYeong17/JuYeong17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
