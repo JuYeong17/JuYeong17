@@ -10,5 +10,4 @@
 <a href="https://github.com/JuYeong17" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=plastic&logo=github&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@ju_yeong17" target="_blank"><img src="https://img.shields.io/badge/velog-008B8B?style=plastic&logo=velog&logoColor=FFFFFF"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuYeong17&show_icons=true&theme=radical)
 </div>
