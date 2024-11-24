@@ -6,7 +6,6 @@
 <div align="center">
 
   ###   📌 My log 📌
-<a href="https://blog.naver.com/dhwndud980" target="_blank"><img src="https://img.shields.io/badge/blog-90EE90?style=plastic&logo=naver&logoColor=000000"/></a>
 <a href="https://github.com/JuYeong17" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=plastic&logo=github&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@ju_yeong17" target="_blank"><img src="https://img.shields.io/badge/velog-008B8B?style=plastic&logo=velog&logoColor=FFFFFF"/></a>
 
